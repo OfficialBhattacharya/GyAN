@@ -1,0 +1,13 @@
+UPSC-News-Aggregator/
+├── main.py                     # App entry point
+├── config.py                   # Configuration loader
+├── scheduler.py                # Task scheduling
+├── email_manager.py            # Email handling
+├── news_scraper.py             # Web scraping
+├── ui/
+│   ├── main_window.py          # PyQt main UI
+│   ├── settings_dialog.py      # Configuration UI
+│   └── resources.py            # Compiled UI resources
+├── config.json                 # User settings
+├── requirements.txt            # Python dependencies
+└── README.md                   # Setup instructions

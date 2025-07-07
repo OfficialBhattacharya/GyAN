@@ -18,7 +18,7 @@ A PyQt5-based desktop application that automatically scrapes, filters, and deliv
 ## Quick Start
 ![GyAN_Home](https://github.com/user-attachments/assets/c31e733e-634e-4554-868c-e2f79f6abbcd)
 ![GyAN_monthlyHighlights](https://github.com/user-attachments/assets/d978c824-243c-4db7-88e8-7c344b2798bd)
-[GyAN_UPSCQuestions](https://github.com/user-attachments/assets/5b276d9f-5cac-410c-a8cd-3a51af622687)
+![GyAN_UPSCQuestions](https://github.com/user-attachments/assets/f21c5f5b-48ca-48d4-a98d-7ea6f98b06d5)
 ![GyAN_AllView](https://github.com/user-attachments/assets/16e67701-3b45-4aee-a0b9-466e28cbb715)
 ![GyAN_settingsPanel](https://github.com/user-attachments/assets/0b563aa3-58bb-48a5-bc1e-f41d772eab76)
 ![GyAN_draftEmail](https://github.com/user-attachments/assets/f9420867-b381-4a3f-bb35-3c93a6614eb6)
